@@ -1462,6 +1462,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/graph-openai-get-page-summary/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "graph-openai-get-page-summary/README.html",
+          "hash": "SALS9tq9bWUMUYhMVoO5WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-openai-get-page-summary/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-openai-get-page-summary/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-openai-get-page-summary/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-openai-get-page-summary/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-openai-get-page-summary/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "graph-openai-get-page-summary/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/README.md",
       "output": {
         ".html": {
@@ -9078,7 +9124,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "dnZZFFiGEwKKBFEfcFHnZw=="
+          "hash": "JShazxaZIjyAHMj4g3joKg=="
         }
       },
       "is_incremental": false,
@@ -9211,7 +9257,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "nhBknyCbcYpd7KA4byg+Tg=="
+          "hash": "85QOIy4q54YUWTA8EHWX3A=="
         }
       },
       "is_incremental": false,
@@ -9223,7 +9269,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "lBt31rMlJCGs0Ae3AMr7og=="
+          "hash": "TctSA51hpvY47qS0rsNvwA=="
         }
       },
       "is_incremental": false,
